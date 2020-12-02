@@ -1,0 +1,17 @@
+{
+  "name": "first-fastify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tierney Cyren <hello@bnb.im>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^3.8.0",
+    "semver": "^7.3.4",
+    "undici": "^2.2.0"
+  }
+}
