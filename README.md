@@ -16,7 +16,7 @@ Run `node index.js` or `npm start`.
 
 I've [deployed this site](https://fastfastify.azurewebsites.net/) to Azure App Service from VS Code, and have set up Continuous Deployment so any PR merged will be shipped to prod quickly. You should be able to deploy this anyhwere, though.
 
-Links:
+Relevant Azure App Service Links:
 
 - Azure App Service: [non-tracking](https://docs.microsoft.com/en-us/azure/app-service/), [tracking](https://docs.microsoft.com/en-us/azure/app-service/?WT.mc_id=opensource-11460-ticyren)
 - Azure App Service extension in VS Code: [non-tracking](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice/), [tracking](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice&WT.mc_id=opensource-11460-ticyren)
