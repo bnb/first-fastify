@@ -2,5 +2,7 @@
   "appService.zipIgnorePattern": [
     "node_modules{,/**}",
     ".vscode{,/**}"
-  ]
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/b50afa41-ad3b-415d-9df1-ae8d97597c3b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/fastfastify",
+  "appService.deploySubpath": "."
 }
