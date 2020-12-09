@@ -14,7 +14,7 @@ Run `node index.js` or `npm start`.
 
 ## Deploy
 
-I've deployed this site to Azure App Service from VS Code, and have set up Continuous Deployment so any PR merged will be shipped to prod quickly. You should be able to deploy this anyhwere, though.
+I've [deployed this site](https://fastfastify.azurewebsites.net/) to Azure App Service from VS Code, and have set up Continuous Deployment so any PR merged will be shipped to prod quickly. You should be able to deploy this anyhwere, though.
 
 Links:
 
