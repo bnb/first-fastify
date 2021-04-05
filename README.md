@@ -18,8 +18,8 @@ I've [deployed this site](https://fastfastify.azurewebsites.net/) to Azure App S
 
 Relevant Azure App Service Links:
 
-- Azure App Service: [non-tracking](https://docs.microsoft.com/en-us/azure/app-service/), [tracking](https://docs.microsoft.com/en-us/azure/app-service/?WT.mc_id=opensource-11460-ticyren)
-- Azure App Service extension in VS Code: [non-tracking](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice/), [tracking](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice&WT.mc_id=opensource-11460-ticyren)
-- Azure App Service Continuous Deployment Docs: [non-tracking](https://docs.microsoft.com/en-us/azure/app-service/deploy-continuous-deployment/), [tracking](https://docs.microsoft.com/en-us/azure/app-service/deploy-continuous-deployment/?WT.mc_id=opensource-11460-ticyren)
+- Azure App Service: [non-tracking](https://docs.microsoft.com/azure/app-service/?WT.mc_id=opensource-0000-ticyren), [tracking](https://docs.microsoft.com/en-us/azure/app-service/?WT.mc_id=opensource-11460-ticyren)
+- Azure App Service extension in VS Code: [non-tracking](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice%2F&WT.mc_id=opensource-0000-ticyren), [tracking](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice&WT.mc_id=opensource-11460-ticyren)
+- Azure App Service Continuous Deployment Docs: [non-tracking](https://docs.microsoft.com/azure/app-service/deploy-continuous-deployment/?WT.mc_id=opensource-0000-ticyren), [tracking](https://docs.microsoft.com/en-us/azure/app-service/deploy-continuous-deployment/?WT.mc_id=opensource-11460-ticyren)
 
 Tracking links are used in my org and are attributed to me as the source as a primary measure of performance. Feel free to use them if you want to, or don't if you don't - either is fine with me ❤️
